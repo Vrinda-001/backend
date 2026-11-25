@@ -26,5 +26,6 @@ src/main/resources/database.properties
 
 # OS generated files
 Thumbs.db
-Desktop.ini
 .DS_Store
+Desktop.ini
+
