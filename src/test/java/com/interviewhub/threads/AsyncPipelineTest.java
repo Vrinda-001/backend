@@ -8,10 +8,7 @@ import java.util.concurrent.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Milestone 4 Verification Test
- * Tests Producer-Consumer pipeline synchronization and ExecutorService with Callable/Future.
- */
+
 public class AsyncPipelineTest {
 
     @Test
